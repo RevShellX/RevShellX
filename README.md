@@ -75,15 +75,6 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional specia
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🎖️ Active CTF participant with multiple top rankings
-- 🏴‍☠️ Hack The Box player with [Your Rank] ranking
-- 🛡️ [Add your certifications here - OSCP, CEH, etc.]
-- 🔥 [X]+ vulnerabilities discovered and responsibly disclosed
-
----
-
 ## 🤝 Connect & Collaborate
 
 I'm always interested in collaborating on cybersecurity projects, discussing the latest security trends, or sharing knowledge with fellow security enthusiasts.
