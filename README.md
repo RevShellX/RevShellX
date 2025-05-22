@@ -83,13 +83,6 @@ I'm always interested in collaborating on cybersecurity projects, discussing the
 
 ---
 
-## 🎯 Featured Projects
-
-<!-- Add your top repositories here -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RevShellX&repo=your-top-repo&theme=radical)](https://github.com/RevShellX/your-top-repo)
-
----
-
 ## 💭 Security Quote of the Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
