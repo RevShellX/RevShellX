@@ -63,8 +63,6 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional specia
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevShellX&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RevShellX&theme=radical&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevShellX&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
