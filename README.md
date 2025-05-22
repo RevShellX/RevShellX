@@ -1,21 +1,130 @@
-# 💫 About Me:
-## 👾 About Me<br><br>Hey, I’m **RevShellX** – cybersecurity nerd, reverse shell lover, and Hack The Box explorer 🔍💣<br><br>⚡ I live for privilege escalation, CTFs, and pwn challenges.  <br>💻 Most of my time goes into Hack The Box, learning how to break (and secure) systems.  <br>🔐 Passionate about ethical hacking, scripting, and automation.<br><br>☠️ From shell to root — one exploit at a time.<br>
+# Hello, I'm RevShellX 👋
 
+<div align="center">
+  <img src="https://github.com/RevShellX.png" alt="RevShellX Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #00ff41;">
+</div>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RevShellX&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RevShellX&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RevShellX&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛡️ Cybersecurity Enthusiast | Ethical Hacker | CTF Player
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Welcome to my GitHub profile! I'm a passionate cybersecurity professional specializing in penetration testing, reverse engineering, and ethical hacking. My journey revolves around understanding system vulnerabilities to build stronger defenses.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RevShellX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🎯 What I Do
+
+- **🔍 Penetration Testing**: Identifying and exploiting vulnerabilities in web applications and networks
+- **💻 Capture The Flag (CTF)**: Active participant in cybersecurity competitions and challenges
+- **🏴‍☠️ Hack The Box**: Exploring and solving complex security scenarios
+- **⚡ Privilege Escalation**: Mastering techniques for system compromise and defense
+- **🔐 Security Research**: Contributing to the cybersecurity community through research and tools
+
+### 🚀 Current Focus
+
+- Advanced penetration testing methodologies
+- Red team operations and tactics
+- Security automation and scripting
+- Cloud security assessment (AWS, Azure)
+- Malware analysis and reverse engineering
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RevShellX&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Arsenal
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Security Tools & Platforms
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### Databases & Web Technologies
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Networking & Privacy
+![Wireguard](https://img.shields.io/badge/Wireguard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![TOR](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevShellX&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RevShellX&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevShellX&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎖️ Active CTF participant with multiple top rankings
+- 🏴‍☠️ Hack The Box player with [Your Rank] ranking
+- 🛡️ [Add your certifications here - OSCP, CEH, etc.]
+- 🔥 [X]+ vulnerabilities discovered and responsibly disclosed
+
+---
+
+## 🤝 Connect & Collaborate
+
+I'm always interested in collaborating on cybersecurity projects, discussing the latest security trends, or sharing knowledge with fellow security enthusiasts.
+
+**Areas of Interest for Collaboration:**
+- Open source security tools development
+- CTF team formations and competitions
+- Security research and vulnerability discovery
+- Educational content creation for cybersecurity community
+
+---
+
+## 🎯 Featured Projects
+
+<!-- Add your top repositories here -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RevShellX&repo=your-top-repo&theme=radical)](https://github.com/RevShellX/your-top-repo)
+
+---
+
+## 💭 Security Quote of the Day
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🔝 Top Contributions
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=RevShellX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+<div align="center">
+  
+**"From shell to root — one exploit at a time."** 💀
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=RevShellX&icon=10&color=13)](https://visitcount.itsvg.in)
+
+*Passionate about ethical hacking and making the digital world more secure.*
+
+</div>
+
+---
+
+⚡ **Fun Fact**: I believe that the best defense comes from understanding the offense. Every vulnerability discovered is a step towards a more secure digital future.
