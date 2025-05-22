@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional specia
 
 - Advanced penetration testing methodologies
 - Red team operations and tactics
-- Security automation and scripting
-- Cloud security assessment (AWS, Azure)
 - Malware analysis and reverse engineering
 
 ---
