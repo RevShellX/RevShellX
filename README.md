@@ -99,7 +99,6 @@ I'm always interested in collaborating on cybersecurity projects, discussing the
   
 **"From shell to root — one exploit at a time."** 💀
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=RevShellX&icon=10&color=13)](https://visitcount.itsvg.in)
 
 *Passionate about ethical hacking and making the digital world more secure.*
 
