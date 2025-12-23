@@ -91,7 +91,7 @@ I'm always interested in collaborating on cybersecurity projects, discussing the
 
 ## 🔝 Top Contributions
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=RevShellX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://tryhackme-badges.s3.amazonaws.com/RevShellX.png" alt="Your Image Badge" />
 
 ---
 
